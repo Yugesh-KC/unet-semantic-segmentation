@@ -118,7 +118,7 @@ $$\text{Dice} = \frac{2 \times |P \cap G|}{|P| + |G|}$$
 
 ## Results
 
->![Example predictions on validation set](images/curves.png)
+>![Curves](images/curves.png)
 
 
 | Split | Loss | Dice Score |
@@ -140,7 +140,7 @@ The ~0.095 gap between training and validation Dice is consistent with mild over
 ## Confusion Matrix
 
 
-![Example predictions on validation set](images/confusion.png)
+![Confusion Matrix](images/confusion.png)
 
 
 ---
