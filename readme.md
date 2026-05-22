@@ -118,7 +118,7 @@ $$\text{Dice} = \frac{2 \times |P \cap G|}{|P| + |G|}$$
 
 ## Results
 
->![Curves](images/curves.png)
+![Curves](images/curves.png)
 
 
 | Split | Loss | Dice Score |
